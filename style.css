@@ -5,12 +5,12 @@
 }
 
 .header {
-    background-image: url(./pictures/ракушка.jpg);
-    background-size: 100% 100%;
-    background-position: center center;
-    background-repeat: no-repeat;
-    height: 100%;
-    
+  background-image: url(./pictures/ракушка.jpg);
+  background-size: 100% 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100%;
+
   height: 100vh;
   width: 100vw;
   display: flex;
@@ -19,63 +19,56 @@
   flex-direction: column;
   color: #926239;
   font-family: "Roboto", sans-serif;
-  
- 
-  
 }
-
-    
 
 .firstText {
   font-size: 50px;
-  
 }
 .secondText {
-    font-weight: normal;
+  font-weight: normal;
 }
 
-.button{
-border: 1px solid #926339;
-background-color: #92633900;
-padding: 12px;
-margin-top: 20px;
-border-radius: 15%;
-font-size: 15px;
-color: #926239;;
+.button {
+  border: 1px solid #926339;
+  background-color: #92633900;
+  padding: 12px;
+  margin-top: 20px;
+  border-radius: 15%;
+  font-size: 15px;
+  color: #926239;
 }
 
-.button:hover{
-    background-color: #926239;
-    color: white;
+.button:hover {
+  background-color: #926239;
+  color: white;
 }
-.text1{
-background-color: #926239;
-color: white;
-text-align: center;
-padding: 20px;
+.text1 {
+  background-color: #926239;
+  color: white;
+  text-align: center;
+  padding: 20px;
 }
-.text2{
-   
-    color: #926239;
-    text-align: center;
-    padding: 20px;
-}
-
-footer{
-    display: flex;
+.text2 {
+  color: #926239;
+  text-align: center;
+  padding: 20px;
 }
 
-.footer1{
-    background-color: #926239;
-    color: white;
-    padding: 20px
+footer {
+  display: flex;
+}
 
+.footer1 {
+  background-color: #926239;
+  color: white;
+  padding: 20px;
 }
-.footer2{
-    color: #926239;
+.footer2 {
+  color: #926239;
+  padding: 20px;
 }
-.footer3{
-    background-color: #926239;
-    color: white;
-    padding: 20px;
+.footer3 {
+  background-color: #926239;
+  color: white;
+  padding: 20px;
 }
